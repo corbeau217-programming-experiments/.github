@@ -1,0 +1,4 @@
+# macOS ignores to prevent the spooky system files being added
+.DS_Store
+*/.DS_Store
+**/.DS_Store
