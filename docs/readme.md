@@ -3,3 +3,5 @@
 * hopefully this shows when you click into the repo
 
 * [what a scam, they changed it](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)
+
+* although the new format is much nicer
